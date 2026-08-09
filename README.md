@@ -16,10 +16,25 @@ I have tested a total of 4186 pair combinations (I had some problems with gettin
 | **Moderately Cointegrated** | 498 | 11.9% | Rejection at 5% significance level |
 | **Strongly Cointegrated** | **246** | **5.9%** | Rejection at 1% significance level |
 
-![Cointegration Results Summary](results/summar_bar.png)
+![Cointegration Results Summary](results/summary_bar.png)
 *Figure 1: Here you can see the results in a more simple way
+
 ![Distribution of the Results](results/tstat_histogram.png)
 *Figure 2: You can see the critical values used to classify pairs and where the pairs fall on a histogram
+
+![Heat map of 20 most connected stocks](results/heatmap.png)
+
+![Network of stocks](results/network_grapgh.png)
+
+![Top 20 Strongest Cointegrated pairs](results/top_pairs.png)
+
+---
+
+
+
+
+---
+Disclaimer: This repository/post is for educational and statistical analysis purposes only. It demonstrates a cointegration test on historical BIST 100 data and does not constitute financial or investment advice.
 
 
 
